@@ -1,6 +1,3 @@
-<div class="text-mono text-small mb-3">
-        <a href="/GurjotSinghAulakh/GurjotSinghAulakh">GurjotSinghAulakh </a><span style="padding:0px 2px;">/</span> README<span class="color-fg-muted">.md</span>
-      </div>
       
 ### Hi there 👋
 
