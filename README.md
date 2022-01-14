@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurjotsinghaulakh&label=Profile%20views&color=0e75b6&style=flat" alt="gurjotsinghaulakh" /> </p>
 
 - 📫 How to reach me **gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no**
+-  I work as a orakel at Oslo Metropolitan University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
