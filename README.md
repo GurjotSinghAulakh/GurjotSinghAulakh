@@ -14,7 +14,8 @@
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/gurjotsinghaulakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gurjotsinghaulakh" width="26px" /></a>
+<a href="https://www.linkedin.com/in/gurjotsinghaulakh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gurjotsinghaulakh" width="26px" /></a>
 </p>
 
 **Tools and Languages:**
@@ -68,12 +69,8 @@
     <img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
 </a>
 
-<a href="https://www.mysql.com/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26px" /> 
-</a> 
-
 <a href="https://reactjs.org/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" /> 
+   <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" /> 
 </a>
 
 <br><br><br>
