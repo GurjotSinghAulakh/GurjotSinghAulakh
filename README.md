@@ -4,22 +4,80 @@
 <h1 align="center">Hi 👋, I'm Gurjot Singh Aulakh</h1>
 <h3 align="center">A passionate developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurjotsinghaulakh&label=Profile%20views&color=0e75b6&style=flat" alt="gurjotsinghaulakh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurjotsinghaulakh&label=Profile%20views&color=0e75b6&style=flat" alt="gurjotsinghaulakh"/> </p>
 
+**Personal stuff:**
+
+- 👨‍💻 I work as a full-stack developer at Secundo.no 
+- 👨‍💻 I also work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/en/studier/-/studieinfo/emne/DATS2300/2021/HØST) at Oslo Metropolitan University
 - 📫 How to reach me **gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no**
--  I work as a orakel at Oslo Metropolitan University
 
-<h3 align="left">Connect with me:</h3>
+**Connect with me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/gurjotsinghaulakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gurjotsinghaulakh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gurjotsinghaulakh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gurjotsinghaulakh" width="26px" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img alt="IntelliJ" width="40px" height="40" src="https://camo.githubusercontent.com/61f5c9a2351e303c6523347655e93aebaf14254c4d8b67b288d0d58941c4fea7/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f696e74656c6c696a2d696465612e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/intellij-idea.png">
- </p>
- 
+**Tools and Languages:**
+
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+
+
+<a href="https://github.com/GurjotSinghAulakh/webProg3-Spring">
+    <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+</a>
+
+<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+
+<a href="https://github.com/GurjotSinghAulakh/webProg3-Spring">
+    <img align="left" alt="Spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
+</a>
+
+<a href="https://github.com/GurjotSinghAulakh/Web-Scraper-API">
+    <img align="left" alt="Pyhton" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
+</a>
+
+<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png"/>
+
+<a href="https://github.com/GurjotSinghAulakh/Final-Web-Project">
+    <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png" />
+</a>
+<a href="https://github.com/GurjotSinghAulakh/Final-Web-Project">
+    <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />
+</a>
+<a href="https://git-scm.com">
+    <img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />
+</a>
+
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+
+<a href="https://www.mysql.com">
+    <img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql.png"/>
+</a>
+
+<a href="https://github.com/GurjotSinghAulakh/webProg3-Spring">
+    <img align="left" alt="Rest API" width="26px" src="https://img.icons8.com/color/48/000000/rest-api.png" />
+</a>
+
+<img align="left" alt="Linux" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
+
+<a href="https://www.jetbrains.com/idea/">
+    <img align="left" alt="IntelliJ" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />
+</a>
+
+<a href="https://developer.apple.com/xcode/">
+    <img align="left" alt="Xcode" width="26px" src="https://img.icons8.com/color/48/000000/xcode.png" />
+</a>
+
+<a href="https://www.mysql.com/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26px" /> 
+</a> 
+
+<a href="https://reactjs.org/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26px" /> 
+</a>
+
+<br><br><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjotsinghaulakh&show_icons=true&locale=en&layout=compact" alt="gurjotsinghaulakh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjotsinghaulakh&show_icons=true&locale=en" alt="gurjotsinghaulakh" /></p>
