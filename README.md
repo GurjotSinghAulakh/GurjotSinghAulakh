@@ -14,12 +14,10 @@ A passionate fullstack-developer from Norway
 * 👨‍💻  I also work as a teacher assistant in the class Algorithms and Data Structures at Oslo Metropolitan University 
 * 📫  How to reach me gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no
 
-<a href="https://www.github.com/GurjotSinghAulakh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/GurjotSinghAulakh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
-<p align="left">
+<p >
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -36,8 +34,14 @@ src="https://img.shields.io/github/followers/GurjotSinghAulakh?logo=github&style
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="36" height="36" alt=Matlab" /></a>
+<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt=Git" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt=Docker" /></a>
+<a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img alt="Rest API" width="36" height="36" src="https://img.icons8.com/color/48/000000/rest-api.png" /></a>
+<a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img alt="Linux" width="36" height="36" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
+<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" width="36" height="36" src="https://img.icons8.com/color/48/000000/intellij-idea.png" /></a>
+<a href="https://developer.apple.com/xcode/"><img  alt="Xcode" width="36" height="36" src="https://img.icons8.com/color/48/000000/xcode.png" /></a>
 </p>
-
 
 ### Socials
 
