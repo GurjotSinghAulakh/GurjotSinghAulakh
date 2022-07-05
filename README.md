@@ -63,9 +63,11 @@ A passionate fullstack-developer from Norway
 
 <div width="100%" align="center"><a href="https://github.com/GurjotSinghAulakh/Web-Scraper-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Web-Scraper-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GurjotSinghAulakh/TestingAvProgramvare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=TestingAvProgramvare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/GurjotSinghAulakh/Final-Web-Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Final-Web-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+  
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
