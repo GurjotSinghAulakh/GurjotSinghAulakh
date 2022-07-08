@@ -11,7 +11,7 @@ A passionate fullstack-developer from Norway
 * 🧠  I'm learning a new framework : React
 * 🤝  I'm open to collaborating on interesting projects
 * 👨‍💻  I work as a full-stack developer at Secundo.no 
-* 👨‍💻  I also work as a teacher assistant in the class Algorithms and Data Structures at Oslo Metropolitan University 
+* 👨‍💻  I also work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2022/H%C3%98ST) at Oslo Metropolitan University 
 * 📫  How to reach me gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no
 
 
