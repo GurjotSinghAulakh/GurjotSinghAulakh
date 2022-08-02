@@ -8,7 +8,7 @@ A passionate fullstack-developer from Norway
 * 🖥️  See my portfolio at [MyPortfolio](http://gurjotsinghaulakh.github.io/Personal-Portfolio/)
 * ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
 * 🚀  I'm currently working on [Project 1 : Personal Portfolio With Dark Mode](https://github.com/GurjotSinghAulakh/Personal-Portfolio-With-Dark-Mode) & [Project 2 : Image Recogintion using Python](https://github.com/GurjotSinghAulakh/Image-recognition-using-python)
-* 🧠  I'm learning a new framework : React
+* 🧠  I'm learning new frameworks : React (JavaScript), flask (Python). 
 * 🤝  I'm open to collaborating on interesting projects
 * 👨‍💻  I work as a full-stack developer at Secundo.no 
 * 👨‍💻  I also work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2022/H%C3%98ST) at Oslo Metropolitan University 
