@@ -8,10 +8,9 @@ A passionate fullstack-developer from Norway
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/GurjotSinghAulakh/Personal-Portfolio-With-Dark-Mode)
 * ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
 * 🚀  I'm currently working on [Image Recogintion using tensorflow](https://github.com/GurjotSinghAulakh/Image-recognition-using-tensorflow)
-* 🧠  I'm learning new frameworks : React & Angular (JavaScript), flask (Python). 
+* 🧠  I'm learning new frameworks : Laravel (PHP)
 * 🤝  I'm open to collaborating on interesting projects
 * 👨‍💻  I work as a Junior AI developer at Secundo.no 
-* 👨‍💻  I also work as a teacher assistant in the class [Algorithms and Data Structures](https://student.oslomet.no/studier/-/studieinfo/emne/DATS2300/2022/H%C3%98ST) at Oslo Metropolitan University 
 * 📫  How to reach me gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no
 
 
