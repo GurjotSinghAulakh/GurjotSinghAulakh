@@ -5,6 +5,7 @@ A passionate fullstack-developer from Norway
 --------------------------------------------
 
 * 🌍  I'm based in Norway
+* 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/GurjotSinghAulakh/Personal-Portfolio-With-Dark-Mode)
 * ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
 * 🚀  I'm currently working on [Image Recogintion using tensorflow](https://github.com/GurjotSinghAulakh/Image-recognition-using-tensorflow)
