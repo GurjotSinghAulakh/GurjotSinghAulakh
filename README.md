@@ -7,14 +7,13 @@ A passionate fullstack-developer from Norway
 * 🌍  I'm based in Norway
 * 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/GurjotSinghAulakh/Personal-Portfolio-With-Dark-Mode)
-* ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com)
 * 🚀  I'm currently working on web-developmennt using PHP (LARAVEL)
 * 🧠  I'm learning new frameworks : Laravel (PHP)
 * 🤝  I'm open to collaborating on interesting projects
 * 👨‍💻  I work as a Full-Stack developer at Secundo.no 
 * 📫  How to reach me gurjot.singh.aulakh28@gmail.com || s351873@oslomet.no
 
-
+<!-- * ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com) -->
 ### Skills
 
 <p >
