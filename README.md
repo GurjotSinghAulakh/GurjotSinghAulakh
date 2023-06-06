@@ -6,7 +6,7 @@ A passionate fullstack-developer from Norway
 
 * 🌍  I'm based in Norway
 * 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
-* 📝 Bachelor thesis website with documents: here (https://gurjotsinghaulakh.github.io/SIM-WebApp/)
+* 📝 Bachelor thesis website with documents: [here](https://gurjotsinghaulakh.github.io/SIM-WebApp/)
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/GurjotSinghAulakh/Personal-Portfolio-With-Dark-Mode)
 * 🚀  I'm currently working on web-developmennt using PHP (LARAVEL)
 * 🧠  I'm learning new frameworks : Laravel (PHP)
