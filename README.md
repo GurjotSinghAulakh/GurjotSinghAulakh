@@ -9,7 +9,7 @@ A passionate fullstack-developer from Norway
 ### Personal stuff
 * 🌍  I'm based in Norway
 * 👨‍💻 Master of Science in Informatics - Artificial Intelligence, NTNU Trondheim, 2025
-* 👨‍🎓 QA Test Engineer at SOCO Norge, 2023
+* 👨‍🎓 Senior QA Test Engineer at SOCO Norge, 2023
 * 🎓 Bachelor of Science in Computer Science, Oslo Metropolitan University, 2023
 * 📫 How to reach me gurjot.singh.aulakh28@gmail.com
 * 📝 Bachelor thesis website with documents: [here](https://gurjotsinghaulakh.github.io/SIM-WebApp/)
