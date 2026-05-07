@@ -28,10 +28,6 @@ A passionate fullstack-developer from Norway
 - **Design:** Photoshop, Adobe XD
 
 ### Socials
-
-- [Facebook](https://www.facebook.com/gurjotsingh.aulakh.1)
-- [GitHub](https://www.github.com/GurjotSinghAulakh)
-- [Instagram](http://www.instagram.com/stylish_singh01)
 - [LinkedIn](https://www.linkedin.com/in/gurjotsinghaulakh/)
 
 ### Badges
