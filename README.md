@@ -21,7 +21,11 @@ A passionate fullstack-developer from Norway
 <!-- * ✉️   You can contact me at [gurjot.singh.aulakh28@gmail.com](mailto:gurjot.singh.aulakh28@gmail.com) -->
 ### Tools & Languages
 
-Java • JavaScript • PHP • Python • HTML5 • React • Next.js • jQuery • CSS3 • Bootstrap • Node.js • MySQL • Firebase • Heroku • Photoshop • Adobe XD • MATLAB • Git • Docker • Linux • IntelliJ • Xcode
+- **Languages:** Java, JavaScript, PHP, Python
+- **Frontend:** HTML5, CSS3, React, Next.js, jQuery, Bootstrap
+- **Backend & Data:** Node.js, MySQL, Firebase, Heroku
+- **Tools:** Git, Docker, Linux, IntelliJ, Xcode, MATLAB
+- **Design:** Photoshop, Adobe XD
 
 ### Socials
 
@@ -34,7 +38,7 @@ Java • JavaScript • PHP • Python • HTML5 • React • Next.js • jQuer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GurjotSinghAulakh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GurjotSinghAulakh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- View my activity on [GitHub profile insights](https://github.com/GurjotSinghAulakh?tab=overview&from=2026-01-01&to=2026-12-31)
 
 <b>Top Repositories</b>
 
