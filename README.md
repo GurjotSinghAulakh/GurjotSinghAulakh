@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gurjot Singh Aulakh
-===========================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gurjot Singh Aulakh
 
 <!--
 A passionate fullstack-developer from Norway
@@ -39,9 +38,9 @@ A passionate fullstack-developer from Norway
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="36" height="36" alt=Matlab" /></a>
-<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt=Git" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt=Docker" /></a>
+<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/55551449/108742889-84b4ec80-7538-11eb-9aee-6e2d0a0b7819.png" width="36" height="36" alt="Matlab" /></a>
+<a href="https://matlabacademy.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/git.png" width="36" height="36" alt="Git" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/docker.png" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"><img alt="Linux" width="36" height="36" src="https://img.icons8.com/color/48/000000/linux.png" /></a>
 <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" width="36" height="36" src="https://img.icons8.com/color/48/000000/intellij-idea.png" /></a>
 <a href="https://developer.apple.com/xcode/"><img  alt="Xcode" width="36" height="36" src="https://img.icons8.com/color/48/000000/xcode.png" /></a>
@@ -65,17 +64,21 @@ A passionate fullstack-developer from Norway
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/GurjotSinghAulakh/Web-Scraper-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Web-Scraper-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GurjotSinghAulakh/TestingAvProgramvare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=TestingAvProgramvare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center">
+<a href="https://github.com/GurjotSinghAulakh/Web-Scraper-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Web-Scraper-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/GurjotSinghAulakh/TestingAvProgramvare" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=TestingAvProgramvare&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/GurjotSinghAulakh/Basics-of-java-programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Basics-of-java-programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/GurjotSinghAulakh/Image-recognition-using-python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Image-recognition-using-python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-  
-<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/GurjotSinghAulakh/Basics-of-java-programming" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Basics-of-java-programming&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/GurjotSinghAulakh/Image-recognition-using-python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Image-recognition-using-python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br />
 
-<div width="100%" align="center"><a href="https://github.com/GurjotSinghAulakh/Algorithms-and-Data-Structures" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Algorithms-and-Data-Structures&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-
-
+<div width="100%" align="center">
+<a href="https://github.com/GurjotSinghAulakh/Algorithms-and-Data-Structures"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GurjotSinghAulakh&repo=Algorithms-and-Data-Structures&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
 ### Support Me
 
