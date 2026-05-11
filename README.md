@@ -12,7 +12,7 @@ A passionate fullstack-developer from Norway
 * 🎓 B.Sc. in Computer Science, Oslo Metropolitan University, 2023
 * 📫 How to reach me gurjot.singh.aulakh28@gmail.com
 * 📝 Bachelor thesis website with documents: [here](https://gurjotsinghaulakh.github.io/SIM-WebApp/)
-* 🖥️  My portfolio: [here](https://aulakh.no/)
+
 <!-- * 🤝  I'm open to collaborating on interesting projects -->
 
 <!-- * 🚀  I'm currently working on web-developmennt using PHP (LARAVEL) -->
